@@ -1,0 +1,12 @@
+# Jupyter Notebook stuff
+.ipynb_checkpoints
+
+# fastText models
+*.bin
+*.gz
+
+# Environments, data and backups
+*.~lock*
+*.bak
+*.csv
+*.txt
